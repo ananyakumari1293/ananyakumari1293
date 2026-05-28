@@ -1,11 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,25:1E3A8A,55:38BDF8,80:F9A8D4,100:FBCFE8&height=280&section=header&text=ANANYA%20KUMARI&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:070B17,20:111827,45:1D4ED8,70:A855F7,100:F9A8D4&height=340&section=header&text=ANANYA%20KUMARI&fontSize=60&fontColor=F8FAFC&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20•%20CREATIVE%20TECHNOLOGIST&descAlignY=58&descSize=22"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=93C5FD&center=true&vCenter=true&width=900&lines=Crafting+immersive+digital+experiences;React+•+Node+•+TypeScript+•+AWS;Exploring+DevOps+and+Scalable+Systems;Building+beautiful+and+interactive+web+applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=1000&lines=Entering+the+digital+dreamscape...;Building+immersive+web+worlds;Cyberpunk+UI+%2B+Anime+Aesthetics;React+•+Node+•+TypeScript+•+AWS;Crafting+products+people+remember"/>
 </p>
 
+
+SYSTEM STATUS :: ACTIVE
+CURRENT FOCUS :: FULL STACK DEVELOPMENT
+INTERESTS     :: DEVOPS • AWS • SYSTEM DESIGN
+FAVOURITE LANGUAGE :: C++
 # < ANANYA KUMARI />
 
 ### Full Stack Web Developer • CSE Student • Creative Technologist
