@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:C78CA0,50:D8A7B8,100:F6D6DF&height=260&section=header&text=ANANYA%20KUMARI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,25:1E3A8A,55:38BDF8,80:F9A8D4,100:FBCFE8&height=280&section=header&text=ANANYA%20KUMARI&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=58&descSize=20"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E8A0BF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Crafting+immersive+web+experiences;React+•+Node+•+TypeScript+•+AWS;Exploring+DevOps+and+Scalable+Systems;Building+beautiful+and+scalable+web+applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=93C5FD&center=true&vCenter=true&width=900&lines=Crafting+immersive+digital+experiences;React+•+Node+•+TypeScript+•+AWS;Exploring+DevOps+and+Scalable+Systems;Building+beautiful+and+interactive+web+applications"/>
 </p>
 
 # < ANANYA KUMARI />
