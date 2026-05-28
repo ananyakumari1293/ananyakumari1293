@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:F8C8DC&height=260&section=header&text=ANANYA%20KUMARI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FADADD,100:F8C8DC&height=260&section=header&text=ANANYA%20KUMARI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Currently pursuing Computer Science Engineering at **Vellore Institute of Techno
 
 ---
 
-```txt id="eq4jch"
+```txt
 SYSTEM STATUS :: ACTIVE
 CURRENT FOCUS :: FULL STACK DEVELOPMENT
 INTERESTS     :: DEVOPS • AWS • SYSTEM DESIGN
