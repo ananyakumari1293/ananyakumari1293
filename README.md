@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8C8DC,100:FDE2E4&height=260&section=header&text=ANANYA%20KUMARI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:F8C8DC&height=260&section=header&text=ANANYA%20KUMARI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=55&descSize=18"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Building+immersive+web+experiences;React+•+Node+•+TypeScript+•+AWS;Exploring+DevOps+and+Scalable+Systems;Creator+of+CITY+404"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E8A0BF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Crafting+immersive+web+experiences;React+•+Node+•+TypeScript+•+AWS;Exploring+DevOps+and+Scalable+Systems;Creator+of+CITY+404"/>
 </p>
 # < ANANYA KUMARI />
 
