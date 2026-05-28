@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F9D5E5,35:CDB4DB,70:A2D2FF,100:BDE0FE&height=260&section=header&text=ANANYA%20KUMARI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=56&descSize=19"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8E3B63,35:B0578D,70:E5A3C5,100:FFF1F7&height=260&section=header&text=ANANYA%20KUMARI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=56&descSize=19"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=23&duration=3200&pause=1000&color=F8A5C2&center=true&vCenter=true&width=900&lines=Building+immersive+digital+experiences;React+•+Node+•+TypeScript+•+AWS;Exploring+DevOps+and+Scalable+Systems;Creating+projects+people+remember"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=23&duration=3200&pause=1000&color=F8C8DC&center=true&vCenter=true&width=900&lines=Building+immersive+digital+experiences;React+•+Node+•+TypeScript+•+AWS;Exploring+DevOps+and+Scalable+Systems;Creating+projects+people+remember"/>
 </p>
 
 <p align="center">
@@ -83,5 +83,5 @@ A realtime computer vision-powered attendance automation system.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ananyakumari1293&theme=transparent&hide_border=true&ring=F8A5C2&fire=A2D2FF&currStreakLabel=F8A5C2"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ananyakumari1293&theme=transparent&hide_border=true&ring=F8A5C2&fire=E5A3C5&currStreakLabel=F8C8DC"/>
 </p>
