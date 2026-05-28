@@ -12,7 +12,7 @@ Building immersive digital experiences through modern frontend engineering, scal
 
 Currently pursuing Computer Science Engineering at **Vellore Institute of Technology** with a GPA of **8.76**, while continuously exploring cloud technologies, DevOps workflows, scalable systems, and high-performance web applications.
 
--------------------------------------------------------------------------------------------------------
+
 
 SYSTEM STATUS :: ACTIVE
 CURRENT FOCUS :: FULL STACK DEVELOPMENT
@@ -23,7 +23,7 @@ FAVOURITE LANGUAGE :: C++
 
 ⚡ From immersive web experiences like **CITY 404** to AI-assisted platforms and real-time systems, I love blending creativity with engineering to craft products people genuinely enjoy using.
 
--------------------------------------------------------------------------------------------------------
+
 
 # 🚀 TECH STACK
 
@@ -45,7 +45,7 @@ FAVOURITE LANGUAGE :: C++
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,mongodb,firebase,aws,git,github,linux,vscode&perline=8" />
 </p>
--------------------------------------------------------------------------------------------------------
+
 
 # 🌌 FEATURED BUILDS
 
@@ -65,7 +65,7 @@ A visually engaging travel storytelling platform designed around exploration, co
 
 A computer vision-powered attendance solution engineered for efficient real-time recognition and automation.
 
---------------------------------------------------------------------------------------------------------
+
 
 # 📡 CURRENTLY EXPLORING
 
@@ -76,7 +76,6 @@ A computer vision-powered attendance solution engineered for efficient real-time
 * Advanced React ecosystems
 * System design fundamentals
 
----------------------------------------------------------------------------------------------------------
 
 # 📬 REACH ME OUT
 
