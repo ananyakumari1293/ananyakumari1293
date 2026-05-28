@@ -1,80 +1,86 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1A102C,25:2E1A47,55:FF8DC7,100:FFD6EC&height=280&section=header&text=ANANYA%20KUMARI&fontSize=58&fontColor=FFF5FA&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=62&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:F8C8DC&height=260&section=header&text=ANANYA%20KUMARI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2800&pause=900&color=FFB7DA&center=true&vCenter=true&width=1000&lines=Entering+the+digital+dreamscape...;Building+immersive+web+worlds;Frontend+Engineer+%E2%80%A2+Creative+Coder;Cyberpunk+UI+%2B+Anime+Aesthetics;Crafting+worlds+through+code"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E8A0BF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Crafting+immersive+web+experiences;React+•+Node+•+TypeScript+•+AWS;Exploring+DevOps+and+Scalable+Systems;Building+beautiful+and+scalable+web+applications"/>
 </p>
 
-<p align="center">
-  ✦ ───────────── ✦
-</p>
+# < ANANYA KUMARI />
 
-# 🌸 ABOUT ME
+### Full Stack Web Developer • CSE Student • Creative Technologist
 
-<table>
-<tr>
-<td width="50%">
+Building immersive digital experiences through modern frontend engineering, scalable backend systems, and creative problem solving.
 
-```txt
+Currently pursuing Computer Science Engineering at **Vellore Institute of Technology** with a GPA of **8.76**, while continuously exploring cloud technologies, DevOps workflows, scalable systems, and high-performance web applications.
+
+---
+
+```txt id="eq4jch"
 SYSTEM STATUS :: ACTIVE
 CURRENT FOCUS :: FULL STACK DEVELOPMENT
 INTERESTS     :: DEVOPS • AWS • SYSTEM DESIGN
 FAVOURITE LANGUAGE :: C++
 ```
 
-🌌 Building immersive and visually engaging digital experiences.
+🌱 I enjoy building projects that are not just functional — but visually engaging, interactive, and memorable.
 
-⚡ From cyberpunk horror worlds like CITY 404 to realtime systems and AI-assisted platforms, I enjoy blending storytelling, aesthetics, and engineering into products people genuinely remember.
+⚡ From immersive web experiences like **CITY 404** to AI-assisted platforms and real-time systems, I love blending creativity with engineering to craft products people genuinely enjoy using.
 
-🎓 CSE Student at VIT
-📈 GPA :: 8.76
+---
 
-</td>
+# 🚀 TECH STACK
 
-<td width="50%">
+### Languages
 
-# 🚀 CURRENTLY EXPLORING
+💻 C++ • Java • Python • JavaScript • TypeScript • SQL
+
+### Frontend
+
+🎨 React.js • Next.js • Tailwind CSS • Responsive UI/UX • Interactive Web Design
+
+### Backend
+
+⚙️ Node.js • Express.js • REST APIs • Authentication • MongoDB • Firebase
+
+### Cloud & Tools
+
+☁️ AWS • Firebase • Vercel • Render • Git • GitHub • Linux
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,mongodb,firebase,aws,git,github,linux,vscode&perline=8" />
+</p>
+
+---
+
+# 🌌 FEATURED BUILDS
+
+### 🌆 CITY 404
+
+A cinematic cyberpunk analog-horror web experience inspired by liminal spaces, hidden signals, glitch aesthetics, and interactive storytelling.
+
+### 🎓 ScoloraX
+
+A modern scholarship discovery platform helping students explore opportunities through a clean and accessible experience.
+
+### 🌍 TripTales
+
+A visually engaging travel storytelling platform designed around exploration, community interaction, and dynamic experiences.
+
+### 🧠 Face Recognition Attendance System
+
+A computer vision-powered attendance solution engineered for efficient real-time recognition and automation.
+
+---
+
+# 📡 CURRENTLY EXPLORING
 
 * Scalable backend architecture
-* DevOps workflows
-* Cloud systems with AWS
+* DevOps & deployment workflows
+* Cloud infrastructure with AWS
 * Performance-focused engineering
 * Advanced React ecosystems
 * System design fundamentals
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚡ TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,firebase,aws,git,github,linux,vscode&theme=dark&perline=8" />
-</p>
-
----
-
-# 🌌 FEATURED PROJECTS
-
-| Project                               | Description                                                                                       |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 🌆 CITY 404                           | Cyberpunk analog-horror interactive web experience inspired by liminal spaces and hidden signals. |
-| 🎓 ScoloraX                           | Scholarship discovery platform helping students explore opportunities through a modern interface. |
-| 🌍 TripTales                          | Travel storytelling platform built around memories, exploration, and emotional experiences.       |
-| 🧠 Face Recognition Attendance System | Computer vision-based realtime attendance automation system.                                      |
-
----
-
-# 📊 GITHUB STATS
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ananyakumari1293&show_icons=true&theme=transparent&hide_border=true&title_color=FFB7DA&icon_color=FF8DC7&text_color=F8DDEB"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyakumari1293&layout=compact&theme=transparent&hide_border=true&title_color=FFB7DA&text_color=F8DDEB"/>
-</p>
 
 ---
 
@@ -82,10 +88,12 @@ FAVOURITE LANGUAGE :: C++
 
 📧 **Email:** [ananyap1293@gmail.com](mailto:ananyap1293@gmail.com)
 
-💼 Open to collaborations, internships, creative ideas, and meaningful opportunities.
+💼 Always open to collaboration, creative projects, and exciting opportunities.
 
 ---
 
+### ✨ “I don’t just build projects — I build experiences people remember.”
+
 <p align="center">
-  ✦ “I don’t just build projects — I build experiences people remember.” ✦
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ananyakumari1293&theme=dark&hide_border=true&ring=F8C8DC&fire=F8C8DC&currStreakLabel=F8C8DC"/>
 </p>
