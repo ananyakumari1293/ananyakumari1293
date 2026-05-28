@@ -79,13 +79,16 @@ A computer vision-powered attendance solution engineered for efficient real-time
 ---------------------------------------------------------------------------------------------------------
 
 # 📬 REACH ME OUT
-(mail to: ananyap1293@gmail.com)
+
+📧 **Email:** [ananyap1293@gmail.com](mailto:ananyap1293@gmail.com)
+
+💼 Always open to collaboration, creative projects, and exciting opportunities.
 
 ---------------------------------------------------------------------------------------------------------
 
 ### “I don’t just build projects — I build experiences people remember.”
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananyakumari1293&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyakumari1293&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyakumari1293&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyakumari1293&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
