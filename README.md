@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A5F,70:4B6B88,100:7AA2C9&height=320&section=header&text=ANANYA%20KUMARI&fontSize=58&fontColor=EAF4FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=58&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:111827,55:312E81,80:7C3AED,100:38BDF8&height=340&section=header&text=ANANYA%20KUMARI&fontSize=60&fontColor=F8FAFC&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Creative%20Technologist&descAlignY=58&descSize=22"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=3200&pause=1000&color=B8D8F8&center=true&vCenter=true&width=950&lines=Building+immersive+digital+experiences;Frontend-focused+Full+Stack+Developer;Exploring+DevOps+%2B+Cloud+Systems;Creating+products+people+remember;Crafting+worlds+through+design+and+code"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=1000&lines=Entering+the+digital+dreamscape...;Building+immersive+web+worlds;Frontend+Engineer+%E2%80%A2+Creative+Coder;Exploring+Cyberpunk+UI+%2B+Cloud+Systems;Where+anime+aesthetics+meet+engineering"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ FAVOURITE LANGUAGE :: C++
 
 🌌 I enjoy building projects that feel atmospheric, interactive, and emotionally memorable rather than simply functional.
 
-⚡ From immersive web experiences like **CITY 404** to AI-assisted platforms and real-time systems, I love blending storytelling, aesthetics, and engineering to create products people genuinely connect with.
+⚡ From immersive web experiences like **CITY 404** to AI-assisted platforms and realtime systems, I love blending storytelling, aesthetics, and engineering to create products people genuinely connect with.
 
 ---
 
@@ -71,7 +71,7 @@ A travel storytelling platform designed around memories, exploration, hidden pla
 
 ### 🧠 Face Recognition Attendance System
 
-A computer vision-powered attendance automation system engineered for efficient real-time recognition.
+A computer vision-powered attendance automation system engineered for efficient realtime recognition.
 
 ---
 
@@ -97,5 +97,5 @@ A computer vision-powered attendance automation system engineered for efficient 
 ### ✨ “I don’t just build projects — I build worlds people can step into.”
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ananyakumari1293&theme=transparent&hide_border=true&ring=7AA2C9&fire=7AA2C9&currStreakLabel=B8D8F8&sideLabels=EAF4FF&dates=94A3B8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ananyakumari1293&theme=transparent&hide_border=true&ring=8BE9FD&fire=7C3AED&currStreakLabel=8BE9FD&sideLabels=E2E8F0&dates=94A3B8"/>
 </p>
