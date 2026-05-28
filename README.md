@@ -88,7 +88,5 @@ A computer vision-powered attendance solution engineered for efficient real-time
 ### ✨ “I don’t just build projects — I build experiences people remember.”
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyakumari1293&show_icons=true&theme=transparent&hide_border=true&title_color=F8C8DC&text_color=ffffff&icon_color=F8C8DC" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyakumari1293&layout=compact&theme=transparent&hide_border=true&title_color=F8C8DC&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ananyakumari1293&theme=dark&hide_border=true&ring=F8C8DC&fire=F8C8DC&currStreakLabel=F8C8DC"/>
 </p>
