@@ -7,13 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananyakumari1293&label=PROFILE+VIEWS&color=E5A3C5&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/ananyakumari1293?style=for-the-badge&color=B0578D"/>
+  ✦ 🌸 ✦
 </p>
-
-<p align="center">✦ 🌸 ✦</p>
-
-# 👋 About Me
 
 ## Full Stack Web Developer • CSE Student • Creative Technologist
 
@@ -28,52 +23,3 @@ SYSTEM STATUS :: ACTIVE
 CURRENT FOCUS :: FULL STACK DEVELOPMENT
 INTERESTS     :: DEVOPS • AWS • SYSTEM DESIGN
 FAVOURITE LANGUAGE :: C++
-```
-
-# 🚀 TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,mongodb,firebase,aws,git,github,linux,vscode&theme=light&perline=8"/>
-</p>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananyakumari1293&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyakumari1293&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-# 🔥 CONTRIBUTION STREAK
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ananyakumari1293&theme=transparent&hide_border=true"/>
-</p>
-
-# 📈 ACTIVITY GRAPH
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyakumari1293&hide_border=true"/>
-</p>
-
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ananyakumari1293&theme=algolia&no-frame=true"/>
-</p>
-
-# 🌌 FEATURED BUILDS
-
-### 🌆 CITY 404
-### 🌍 TripTales
-### 🎓 ScoloraX
-### 🧠 Face Recognition Attendance System
-
-# 📬 REACH ME OUT
-
-📧 ananyap1293@gmail.com
-
-<p align="center">
-✨ "I don't just build projects — I build experiences people remember." ✨
-</p>
