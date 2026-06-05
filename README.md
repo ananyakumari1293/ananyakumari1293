@@ -23,3 +23,73 @@ SYSTEM STATUS :: ACTIVE
 CURRENT FOCUS :: FULL STACK DEVELOPMENT
 INTERESTS     :: DEVOPS • AWS • SYSTEM DESIGN
 FAVOURITE LANGUAGE :: C++
+```
+
+🌸 I enjoy building projects that are visually engaging, interactive, and memorable.
+
+⚡ From immersive web experiences like **CITY 404** to platforms like **TripTales** and **ScoloraX**, I love blending creativity with engineering to create products people genuinely enjoy using.
+
+---
+
+# 🚀 TECH STACK
+
+💻 C++ • Java • Python • JavaScript • TypeScript • SQL  
+🎨 React.js • Next.js • Tailwind CSS • Responsive UI/UX  
+⚙️ Node.js • Express.js • MongoDB • Firebase • REST APIs  
+☁️ AWS • Git • GitHub • Linux • Vercel • Render
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,mongodb,firebase,aws,git,github,linux,vscode&theme=light&perline=8"/>
+</p>
+
+---
+
+# 🌌 FEATURED BUILDS
+
+### 🌆 CITY 404
+A cinematic analog-horror web experience inspired by liminal spaces, hidden signals, and immersive storytelling.
+
+### 🌍 TripTales
+A dreamy travel storytelling platform built around memories, hidden places, and emotional experiences.
+
+### 🎓 ScoloraX
+A modern scholarship discovery platform helping students explore opportunities through a clean and engaging interface.
+
+### 🧠 Face Recognition Attendance System
+A realtime computer vision-powered attendance automation system.
+
+---
+
+# 📡 CURRENTLY EXPLORING
+
+- DevOps & deployment workflows
+- Cloud infrastructure with AWS
+- Scalable backend architecture
+- Advanced React ecosystems
+- System design fundamentals
+
+---
+
+# 📬 REACH ME OUT
+
+📧 **Email:** [ananyap1293@gmail.com](mailto:ananyap1293@gmail.com)
+
+💼 Open to collaborations, internships, creative ideas, and meaningful opportunities.
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyakumari1293&bg_color=ffffff&color=B0578D&line=E5A3C5&point=F8C8DC&area=true&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  ✨ “I don’t just build projects — I build experiences people remember.” ✨
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ananyakumari1293&theme=transparent&hide_border=true&ring=F8A5C2&fire=E5A3C5&currStreakLabel=F8C8DC"/>
+</p>
