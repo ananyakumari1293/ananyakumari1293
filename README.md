@@ -81,8 +81,9 @@ A realtime computer vision-powered attendance automation system.
 # 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyakumari1293&show_icons=true&theme=transparent&hide_border=true&title_color=F8C8DC&icon_color=E5A3C5"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyakumari1293&layout=compact&theme=transparent&hide_border=true&title_color=F8C8DC"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananyakumari1293&show_icons=true&theme=transparent&hide_border=true&title_color=F8C8DC&icon_color=E5A3C5&text_color=FFFFFF"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyakumari1293&layout=compact&theme=transparent&hide_border=true&title_color=F8C8DC&text_color=FFFFFF"/>
 </p>
 
 ---
