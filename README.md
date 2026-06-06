@@ -27,7 +27,7 @@ FAVOURITE LANGUAGE :: C++
 
 🌸 I enjoy building projects that are visually engaging, interactive, and memorable.
 
-⚡ From immersive web experiences like **CITY 404** to platforms like **TripTales** and **ScoloraX**, I love blending creativity with engineering to create products people genuinely enjoy using.
+⚡ From immersive web experiences like **CITY 404** to AI-powered productivity platforms like **FocusNest**, I love blending creativity with engineering to create products people genuinely enjoy using.
 
 ---
 
@@ -46,27 +46,79 @@ FAVOURITE LANGUAGE :: C++
 
 # 🌌 FEATURED BUILDS
 
-### 🌆 CITY 404
-A cinematic analog-horror web experience inspired by liminal spaces, hidden signals, and immersive storytelling.
+## 🌊 FocusNest
 
-### 🌍 TripTales
-A dreamy travel storytelling platform built around memories, hidden places, and emotional experiences.
+An AI-powered productivity workspace designed for students, developers, and self-learners.
 
-### 🎓 ScoloraX
-A modern scholarship discovery platform helping students explore opportunities through a clean and engaging interface.
+✨ Features:
+- Gemini AI Study Assistant
+- Kanban Task Management
+- Pomodoro Focus Sessions
+- Collaborative Study Rooms
+- Spotify Integration
+- Firebase Authentication
+- Cloud-Based Workspace
 
-### 🧠 Face Recognition Attendance System
-A realtime computer vision-powered attendance automation system.
+🛠️ Tech:
+React • TypeScript • Firebase • Gemini AI • Spotify OAuth • Vite
+
+---
+
+## 🌆 CITY 404
+
+A cyberpunk horror experience hidden behind broken signals.
+
+✨ Features:
+- Interactive Horror-Themed Rooms
+- Hidden Message Challenges
+- Countdown & Attempt System
+- Shareable Signal Links
+- Cyberpunk UI & Storytelling
+
+🛠️ Tech:
+Next.js • TypeScript • Firebase • Tailwind CSS
+
+---
+
+## 🎓 ScoloraX
+
+A modern scholarship discovery platform helping students find educational opportunities more efficiently.
+
+✨ Features:
+- Scholarship Discovery
+- Degree-Based Filtering
+- Authentication
+- Save Opportunities
+- Responsive Dashboard
+
+🛠️ Tech:
+React • Node.js • Express.js • MongoDB
+
+---
+
+## 🧠 Face Recognition Attendance System
+
+A real-time attendance automation system powered by computer vision.
+
+✨ Features:
+- Face Detection
+- Automated Attendance
+- Realtime Recognition
+- Attendance Tracking
+
+🛠️ Tech:
+Python • OpenCV • Machine Learning
 
 ---
 
 # 📡 CURRENTLY EXPLORING
 
-- DevOps & deployment workflows
-- Cloud infrastructure with AWS
-- Scalable backend architecture
-- Advanced React ecosystems
-- System design fundamentals
+- DevOps & Deployment Workflows
+- Cloud Infrastructure with AWS
+- Scalable Backend Architecture
+- Advanced React Ecosystems
+- System Design Fundamentals
+- AI-Powered Applications
 
 ---
 
@@ -74,22 +126,58 @@ A realtime computer vision-powered attendance automation system.
 
 📧 **Email:** [ananyap1293@gmail.com](mailto:ananyap1293@gmail.com)
 
-💼 Open to collaborations, internships, creative ideas, and meaningful opportunities.
+💼 **LinkedIn:** https://www.linkedin.com/in/ananya-kumari-362906373/
+
+🌐 **Portfolio:** https://ananya-portfolio-w4gz.vercel.app
+
+🐙 **GitHub:** https://github.com/ananyakumari1293
+
+💬 Open to internships, collaborations, hackathons, and exciting opportunities.
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+# 🌸 PHILOSOPHY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyakumari1293&bg_color=ffffff&color=B0578D&line=E5A3C5&point=F8C8DC&area=true&hide_border=true"/>
+  ✨ <i>"I don't just build projects — I build experiences people remember."</i> ✨
+</p>
+
+<br>
+
+<p align="center">
+  🌊 <b>Dream • Build • Learn • Repeat</b>
+</p>
+
+<p align="center">
+  Every project teaches something new.
+</p>
+
+<p align="center">
+  From immersive web experiences and AI-powered platforms
+  <br/>
+  to creative interfaces and scalable systems,
+  <br/>
+  I enjoy turning ideas into products people genuinely enjoy using.
+</p>
+
+<br>
+
+<p align="center">
+  💚 Built with curiosity, creativity, and countless cups of coffee.
+</p>
+
+<br>
+
+<p align="center">
+  With Love,
+</p>
+
+<p align="center">
+  🌸 <b>Ananya</b>
 </p>
 
 ---
 
 <p align="center">
-  ✨ “I don’t just build projects — I build experiences people remember.” ✨
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ananyakumari1293&theme=transparent&hide_border=true&ring=F8A5C2&fire=E5A3C5&currStreakLabel=F8C8DC"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8E3B63,35:B0578D,70:E5A3C5,100:FFF1F7"/>
 </p>
