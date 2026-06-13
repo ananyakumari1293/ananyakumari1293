@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8E3B63,35:B0578D,70:E5A3C5,100:FFF1F7&height=260&section=header&text=ANANYA%20KUMARI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=56&descSize=19"/>
 </p>
 
