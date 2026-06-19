@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8E3B63,35:B0578D,70:E5A3C5,100:FFF1F7&height=260&section=header&text=ANANYA%20KUMARI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Creative%20Technologist&descAlignY=56&descSize=19"/>
 </p> 
  
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=23&duration=3200&pause=1000&color=F8C8DC&center=true&vCenter=true&width=900&lines=Building+immersive+digital+experiences;React+•+Node+•+TypeScript+•+AWS;Exploring+DevOps+and+Scalable+Systems;Creating+projects+people+remember"/>
 </p>
 
